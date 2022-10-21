@@ -1,0 +1,15 @@
+E:\C#\Projects\SmoothSentences\SmoothSentences\bin\Debug\net6.0\SmoothSentences.exe
+E:\C#\Projects\SmoothSentences\SmoothSentences\bin\Debug\net6.0\SmoothSentences.deps.json
+E:\C#\Projects\SmoothSentences\SmoothSentences\bin\Debug\net6.0\SmoothSentences.runtimeconfig.json
+E:\C#\Projects\SmoothSentences\SmoothSentences\bin\Debug\net6.0\SmoothSentences.dll
+E:\C#\Projects\SmoothSentences\SmoothSentences\bin\Debug\net6.0\SmoothSentences.pdb
+E:\C#\Projects\SmoothSentences\SmoothSentences\obj\Debug\net6.0\SmoothSentences.csproj.AssemblyReference.cache
+E:\C#\Projects\SmoothSentences\SmoothSentences\obj\Debug\net6.0\SmoothSentences.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Projects\SmoothSentences\SmoothSentences\obj\Debug\net6.0\SmoothSentences.AssemblyInfoInputs.cache
+E:\C#\Projects\SmoothSentences\SmoothSentences\obj\Debug\net6.0\SmoothSentences.AssemblyInfo.cs
+E:\C#\Projects\SmoothSentences\SmoothSentences\obj\Debug\net6.0\SmoothSentences.csproj.CoreCompileInputs.cache
+E:\C#\Projects\SmoothSentences\SmoothSentences\obj\Debug\net6.0\SmoothSentences.dll
+E:\C#\Projects\SmoothSentences\SmoothSentences\obj\Debug\net6.0\refint\SmoothSentences.dll
+E:\C#\Projects\SmoothSentences\SmoothSentences\obj\Debug\net6.0\SmoothSentences.pdb
+E:\C#\Projects\SmoothSentences\SmoothSentences\obj\Debug\net6.0\SmoothSentences.genruntimeconfig.cache
+E:\C#\Projects\SmoothSentences\SmoothSentences\obj\Debug\net6.0\ref\SmoothSentences.dll
